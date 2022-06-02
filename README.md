@@ -70,7 +70,7 @@
 
  16. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.
 		
-	        bug_report.json->edit this file
+	        bug_report.xml->edit this file
 	        *text*
 
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
