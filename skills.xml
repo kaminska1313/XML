@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<skills-to-be-acquired>
+    <skill>Basics of testing</skill>
+    <skill>Client-server architecture</skill>
+    <skill>HTTP methods</skill>
+    <skill>JSON and XML structure</skill>
+    <skill>API testing via Postman</skill>
+    <skill>Mobile testing</skill>
+    <skill>iOS and Android features</skill>
+    <skill>Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android</skill>
+    <skill>ADB</skill>
+    <skill>Terminal Linux</skill>
+    <skill>Bash scripting basics</skill>
+    <skill>SQL basics</skill>
+    <skill>Load Testing via Jmeter</skill>
+    <skill>Scrum Development Methodology</skill>
+</skills-to-be-acquired>
